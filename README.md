@@ -1,7 +1,7 @@
-# **Prueba Técnica - Backend con la API de Rick and Morty**
+# **Prueba Técnica - API de Rick and Morty & HubSpot**
 
 ## **Descripción del Proyecto**
-El objetivo de esta prueba es crear un backend simple que:
+El objetivo de esta prueba es crear una aplicación sencilla simple que:
 1. **Consuma datos** de la API de Rick and Morty.
 2. **Transforme los datos** aplicando un filtro basado en la edad o un criterio relacionado con la información obtenida (Puedes escogerlo con toda libertad).
 3. **Envíe los datos filtrados** a HubSpot usando la API de CONTACTOS.
@@ -38,7 +38,7 @@ Este desafío es una oportunidad para demostrar tu capacidad de integrar APIs, m
 ## **Requisitos Técnicos**
 - **Lenguaje**: Puedes usar cualquier lenguaje, pero recomendamos **Python** o **Node.js**.
 - **Comentarios**: La sección de comentarios va a ser uno de los puntos mas importantes de la prueba.  
-- **Frameworks sugeridos pero depende del lenguaje de programación que prefieran**:
+- **Frameworks sugeridos pero depende del lenguaje de programación que prefieran y no es obligatorio tener Backend, puede ser una aplicación Vanilla**:
   - Python: Flask o FastAPI.  
   - Node.js: Express.
 - **Buenas prácticas básicas**:
