@@ -39,16 +39,15 @@ Este desafío es una oportunidad para demostrar tu capacidad de integrar APIs, m
 - **Lenguaje**: Puedes usar cualquier lenguaje, pero recomendamos **Python** o **Node.js**.
 - **Comentarios**: La sección de comentarios va a ser uno de los puntos mas importantes de la prueba.  
 - **Frameworks sugeridos pero depende del lenguaje de programación que prefieran y no es obligatorio tener Backend, puede ser una aplicación Vanilla**:
-  - Python: Flask o FastAPI.  
-  - Node.js: Express.
+  - Python: Flask o FastAPI (Opcional).  
+  - Node.js: Express (Opcional).
 - **Buenas prácticas básicas**:
   - Código organizado y claro.
   - Validación de errores básicos (como fallos en la conexión o datos inválidos).
-  - Uso de control de versiones con Git.
+  - Uso de control de versiones con Git (Opcional).
 
 ---
 
-## **Ejecución**
-1. Clona este repositorio:
-   ```bash
-   git clone <url-del-repositorio>
+## **Los entregables pueden ser repositorio de Github Ó archivo .zip**
+1. Link de repositorio de github (en dado caso recuerda ponerlo público para poderlo leer).
+2. Carpeta comprimida.
