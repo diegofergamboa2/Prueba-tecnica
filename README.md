@@ -21,7 +21,7 @@ Este desafío es una oportunidad para demostrar tu capacidad de integrar APIs, m
 - Los resultados filtrados deben estar listos para enviarse a otro sistema.
 
 ### **3. Envío a la API de HubSpot**
-- Conecta tu backend con la API de HubSpot.  
+- Conecta tu aplicación con la API de HubSpot.  
 - Enviar los datos filtrados como contactos o cualquier objeto que consideres relevante.
 
 - **Recuerda usar la API Key que generaras en tu cuenta de HubSpot**
