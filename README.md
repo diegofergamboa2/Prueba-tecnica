@@ -37,7 +37,7 @@ Este desafío es una oportunidad para demostrar tu capacidad de integrar APIs, m
 
 ## **Requisitos Técnicos**
 - **Lenguaje**: Puedes usar cualquier lenguaje, pero recomendamos **Python** o **Node.js**.
-- **Comentarios**: La sección de comentarios va a ser uno de los puntos mas importantes de la prueba.  
+- **Comentarios**: Los comentarios del código va a ser uno de los puntos mas importantes de la prueba.  
 - **Frameworks sugeridos pero depende del lenguaje de programación que prefieran y no es obligatorio tener Backend, puede ser una aplicación Vanilla**:
   - Python: Flask o FastAPI (Opcional).  
   - Node.js: Express (Opcional).
