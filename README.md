@@ -27,7 +27,7 @@ Este desafío es una oportunidad para demostrar tu capacidad de integrar APIs, m
 - **Recuerda usar la API Key que generaras en tu cuenta de HubSpot**
 - 1. Generar una API Key
 - Ve a tu cuenta de HubSpot.
-- Navega a Configuración (ícono de engranaje).
+- Navega a Configuración ⚙️.
 - En el menú lateral, selecciona Integraciones > API Keys.
 - Genera una nueva clave API y guárdala (ya que solo se mostrará una vez).
 
